@@ -27,6 +27,12 @@
 <br />
 <br />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbogorodsky)]
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbogorodsky&layout=compact)]
+
+
+
 [website]: https://webtricks-master.ru/
 [youtube]: https://www.youtube.com/channel/UCkvd2R7fmbs1watlJ6wur_w
 [linkedin]: https://www.linkedin.com/in/vlad-kalachev-ab87b312a/
