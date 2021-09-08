@@ -32,5 +32,5 @@
 
 [website]: 
 [linkedin]: https://www.linkedin.com/
-[vk]: https://vk.com/id94728434
+[vk]: https://vk.com/id94728434/
 
