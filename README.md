@@ -27,9 +27,9 @@
 <br />
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbogorodsky)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbogorodsky&theme=github_dark)]
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbogorodsky&layout=compact)]
+
 
 
 
