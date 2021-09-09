@@ -30,7 +30,7 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbogorodsky&theme=github_dark) -->
 <br />
 
-[website]: https://webtricks-master.ru/
+[website]: https://bogorodsky-konstantin.ru/#en
 [linkedin]: https://www.linkedin.com/
 [vk]: https://vk.com/id94728434
 
