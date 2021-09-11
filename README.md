@@ -37,5 +37,5 @@
 [website]: https://bogorodsky-konstantin.ru/#en
 [linkedin]: https://www.linkedin.com/
 [vk]: https://vk.com/id94728434
-[gmail]: konstantin.bogorodsky@gmail.com
+[gmail]: **konstantin.bogorodsky@gmail.com**
 
