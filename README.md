@@ -4,6 +4,8 @@
 
 ## I'm a Junior Frontend Feveloper from Moscow.
 
+### About me:
+
 - 💪 I like to write code
 - 👯 I’m looking to collaborate on the ork in web development
 - 🌱 I’m currently learning React
