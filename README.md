@@ -15,9 +15,8 @@
 
 ### Connect with me:
 
-<a href = "https://www.linkedin.com/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/konstantin-bogorodsky-779310221"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://vk.com/id94728434"><img src="https://img.icons8.com/fluency/48/000000/vk-com.png"/></a>
-<a href="mailto:konstantin.bogorodsky@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
 
 <br />
 
@@ -36,5 +35,4 @@
 <br />
 <br />
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kbogorodsky&theme=github_dark) -->
 <br />
