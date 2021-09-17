@@ -17,6 +17,7 @@
 
 <a href = "https://www.linkedin.com/in/konstantin-bogorodsky-779310221"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://vk.com/id94728434"><img src="https://img.icons8.com/fluency/48/000000/vk-com.png"/></a>
+<a href = "https://t.me/kbogorodsky"><img src="https://img.icons8.com/color/48/000000/telegram-app--v3.png"/></a>
 
 <br />
 
